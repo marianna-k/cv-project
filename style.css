@@ -1,0 +1,31 @@
+.cf-sans-font{
+ font-family: Roboto,sans-serif;
+}
+
+.cf-serif{
+  font-family: "Playfair-Display",serif;
+}
+
+.cf-link{
+  color: beige;
+}
+
+.cf-link:hover{
+  color:coral;
+}
+
+.cf-link:visited{
+  color:rgb(192, 178, 206);
+}
+
+.cf-line{
+  color:dimgray;
+}
+
+.cf-size-14{
+  font-size: 14px;
+}
+
+.cf-list-none{
+  list-style: none;
+}
